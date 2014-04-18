@@ -1,0 +1,4 @@
+SlidingTabsBasic
+================
+
+Example of SlidingTabsBasic
